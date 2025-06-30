@@ -1,16 +1,24 @@
-## Hi there 👋
+## About Me
 
-<!--
-**rubannn/rubannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Nikolay Ruban—a mathematician with a passion for solving real-world problems through code. I thrive at the intersection of logic, creativity, and technology, and I love building solutions that make life easier (and sometimes a bit more fun!).
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & Frameworks:** Python, Django, SQL, PostgreSQL, Docker, Delphi, JavaScript  
+- **Tools:** LaTeX, Microsoft Access
+
+### 💼 Notable Projects
+
+- **Mileage Tracking Database:** Developed a Delphi-based system to monitor rolling stock mileage, ensuring timely routine maintenance and major repairs.
+- **Diploma Appendix Automation:** Built an application (Delphi, Access) for generating templates—automating the process of filling out diploma appendices for specialists.
+- **Exam Ticket Generator:** Created LaTeX applications to automatically generate randomized exam ticket sets, streamlining exam preparation.
+
+### 🎯 Online Profiles
+
+- [Codewars](https://www.codewars.com/users/Gh0stik)
+- [LeetCode](https://leetcode.com/u/Gh0stik/)
+- [LinkedIn](https://www.linkedin.com/in/nikolay-ruban-49223667/)
+
+---
+
+I bring analytical precision, a love for clean code, and a dash of fun to every project I take on. Let’s build something great together!
