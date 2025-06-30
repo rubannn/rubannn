@@ -4,7 +4,7 @@ Hi! I’m Nikolay Ruban — a mathematician with a passion for solving real-worl
 
 ### 🛠️ Tech Stack
 
-- **Languages & Frameworks:** Python, Django, SQL, PostgreSQL, Docker, Delphi, JavaScript  
+- **Languages & Frameworks:** Python, Django, SQL, PostgreSQL, Docker, Delphi, JavaScript, AL language (Business Central)
 - **Tools:** LaTeX, MS Office, GeoGebra
 
 ### 💼 Notable Projects
@@ -12,6 +12,7 @@ Hi! I’m Nikolay Ruban — a mathematician with a passion for solving real-worl
 - **Mileage Tracking Database:** Developed a Delphi-based system to monitor rolling stock mileage, ensuring timely routine maintenance and major repairs.
 - **Diploma Appendix Automation:** Built an application (Delphi, Access) for generating templates—automating the process of filling out diploma appendices for specialists.
 - **Exam Ticket Generator:** Created LaTeX applications to automatically generate randomized exam ticket sets, streamlining exam preparation.
+- **[LeetCode Tracker & Code Generator](https://github.com/rubannn/Leetcode):** Parses the user profile, extracting a list of solved problems. Creates a structured database of solutions (in the form of folders with files).
 
 ### 🎯 Online Profiles
 
