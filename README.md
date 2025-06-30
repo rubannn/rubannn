@@ -1,11 +1,11 @@
 ## About Me
 
-Hi! I’m Nikolay Ruban—a mathematician with a passion for solving real-world problems through code. I thrive at the intersection of logic, creativity, and technology, and I love building solutions that make life easier (and sometimes a bit more fun!).
+Hi! I’m Nikolay Ruban — a mathematician with a passion for solving real-world problems through code. I thrive at the intersection of logic, creativity, and technology, and I love building solutions that make life easier (and sometimes a bit more fun!).
 
 ### 🛠️ Tech Stack
 
 - **Languages & Frameworks:** Python, Django, SQL, PostgreSQL, Docker, Delphi, JavaScript  
-- **Tools:** LaTeX, Microsoft Access
+- **Tools:** LaTeX, MS Office, GeoGebra
 
 ### 💼 Notable Projects
 
