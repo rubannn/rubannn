@@ -26,13 +26,9 @@ I bring analytical precision, a love for clean code, and a dash of fun to every 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubannn&show_icons=true&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubannn&layout=compact&theme=tokyonight)
-
-![Snake animation](https://github.com/rubannn/rubannn/blob/output/github-contribution-grid-snake.svg)
-
-![Compact Stats](https://github-readme-stats.vercel.app/api?username=rubannn&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide=issues,contribs)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rubannn&theme=tokyonight)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rubannn&show_icons=true&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubannn&layout=compact&theme=tokyonight" /></td>
+  </tr>
+</table>
