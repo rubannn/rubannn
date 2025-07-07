@@ -27,3 +27,5 @@ I bring analytical precision, a love for clean code, and a dash of fun to every 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubannn&show_icons=true&theme=tokyonight)
+
+[![GitHub Stats2](https://github-readme-stats.vercel.app/api/wakatime?username=rubannn)](https://github.com/anuraghazra/github-readme-stats)
