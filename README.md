@@ -26,9 +26,9 @@ I bring analytical precision, a love for clean code, and a dash of fun to every 
 
 ---
 
-<table border="0" style="border:none;">
+<table style="border:none;">
   <tr>
-    <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=rubannn&show_icons=true&theme=tokyonight" /></td>
-    <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubannn&layout=compact&theme=tokyonight" /></td>
+    <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=rubannn&show_icons=true&theme=default" /></td>
+    <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubannn&layout=compact&theme=default" /></td>
   </tr>
 </table>
