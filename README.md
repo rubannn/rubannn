@@ -23,3 +23,7 @@ Hi! I’m Nikolay Ruban — a mathematician with a passion for solving real-worl
 ---
 
 I bring analytical precision, a love for clean code, and a dash of fun to every project I take on. Let’s build something great together!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubannn&show_icons=true&theme=tokyonight)
