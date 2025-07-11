@@ -54,7 +54,6 @@ I bring analytical precision, a love for clean code, and a dash of fun to every 
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)](#)
 [![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)](#)
 [![GeoGebra](https://img.shields.io/badge/GeoGebra-28A8EA?style=flat&logo=geogebra&logoColor=white)](#)
-
 </div>
 
 <div align="center" style="display: flex; align-items: stretch;">
@@ -62,3 +61,8 @@ I bring analytical precision, a love for clean code, and a dash of fun to every 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubannn&layout=compact&theme=default&hide_border=true&include_all_commits=true&count_private=true" style="height: 195px;" />
 </div>
 
+---
+
+<div align="center">
+![snake gif](https://github.com/rubannn/rubannn/blob/output/github-grid-snake.svg)
+</div>
