@@ -39,7 +39,7 @@ I bring analytical precision, a love for clean code, and a dash of fun to every 
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Delphi](https://img.shields.io/badge/Delphi-CC342D?logo=delphi&logoColor=white)](#)
+[![Pascal](https://img.shields.io/badge/Pascal-Delphi-%23EE1F35?style=flat&logo=delphi&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![AL](https://img.shields.io/badge/AL%20(Business%20Central)-5E35B1?style=flat&logo=microsoft&logoColor=white)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
