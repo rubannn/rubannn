@@ -57,7 +57,7 @@ I bring analytical precision, a love for clean code, and a dash of fun to every 
 </div>
 
 <div align="center" style="display: flex; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubannn&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" style="height: 195px;" />    
+  <img src="https://github-readme-stats.vercel.app/api?username=rubannn&show_icons=true&theme=default&hide_border=true&count_private=true" style="height: 195px;" />    
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubannn&layout=compact&theme=default&hide_border=true&include_all_commits=true&count_private=true" style="height: 195px;" />
 </div>
 
