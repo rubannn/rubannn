@@ -87,7 +87,7 @@ I bring analytical precision, a love for clean code, and a dash of fun to every 
 ---
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rubannn/rubannn/output/github-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rubannn/rubannn/output/github-grid-snake.svg">
   <img alt="github grid snake animation" src="raw.githubusercontent.com/rubannn/rubannn/output/github-grid-snake.svg">
 </picture>
