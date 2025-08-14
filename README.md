@@ -2,8 +2,9 @@
 
 Hi! I’m Nikolay Ruban — a mathematician with a passion for solving real-world problems through code. I thrive at the intersection of logic, creativity, and technology, and I love building solutions that make life easier (and sometimes a bit more fun!).
 
-### 💼 Notable Projects
+### 💼 Projects & Contributions
 
+- **Author of Two Programming Books**: Wrote two books on competitive programming problem-solving, available at the Vernadsky National Library. These books provide detailed analysis of Olympiad-level algorithmic challenges.
 - **Mileage Tracking Database:** Developed a Delphi-based system to monitor rolling stock mileage, ensuring timely routine maintenance and major repairs.
 - **Diploma Appendix Automation:** Built an application (Delphi, Access) for generating templates—automating the process of filling out diploma appendices for specialists.
 - **Exam Ticket Generator:** Created LaTeX applications to automatically generate randomized exam ticket sets, streamlining exam preparation.
