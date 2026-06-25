@@ -14,6 +14,7 @@ Hi! I’m Nikolay Ruban — a mathematician with a passion for solving real-worl
 
 - [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=fff)](https://www.codewars.com/users/Gh0stik)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Gh0stik/)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rubannn)
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nikolay-ruban-49223667/)
 
 ---
