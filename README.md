@@ -81,9 +81,9 @@ I bring analytical precision, a love for clean code, and a dash of fun to every 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white)](#)
 </div>
 
-<div align="center" style="display: flex; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubannn&show_icons=true&theme=default&hide_border=true&count_private=true" style="height: 195px;" />    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubannn&layout=compact&theme=default&hide_border=true&include_all_commits=true&count_private=true" style="height: 195px;" />
+<div align="center" style="display: flex; align-items: stretch;">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubannn&theme=transparent"  style="height: 195px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubannn&theme=transparent"  style="height: 195px;"/>
 </div>
 
 ---
